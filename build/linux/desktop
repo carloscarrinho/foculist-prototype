@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=My Product
+Comment=A foculist application
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/foculist %u
+Terminal=false
+Type=Application
+Icon=foculist
+Categories=Utility;
+StartupWMClass=foculist
+
+ 
